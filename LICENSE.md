@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS integration with Alfred for macOS exclusive Integration - auto-sync and reminders. Featuring auto-sync and reminders, it's the best choice for
 
 
 
